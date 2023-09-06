@@ -1,0 +1,51 @@
+#take-note{
+    width: 40%;
+    margin-left: 417px;
+    margin-top: 69px;
+}
+
+#take-note-text{
+    font-size: medium;
+}
+
+.NoteCard{
+    align-items: center;
+    width: 100%;
+    /* margin-left: 339px;
+    margin-top: 100px; */
+}
+
+.Note{
+    display: flex;
+    flex-direction: column;
+}
+
+.NoteIcons{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* margin-left: 26px; */
+    padding: 21px;
+}
+
+.NoteClose{
+    /* width: 30%;
+    /* padding: 28px; */
+    /* margin-left: 105px; */
+    /* width: 70%; */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: space-between; */
+    /* margin-left: 26px; */
+    /* padding: 21px; */
+
+    margin-left: 95px;
+    width: 25%;
+}
+
+.NoteBottom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
